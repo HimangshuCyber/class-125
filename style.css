@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&family=Raleway:wght@500;600;700&display=swap');
+
+body{
+	background-color: #f38b8b;
+	font-family: 'Raleway', sans-serif;
+}
+.Heading{
+	margin: 0px;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 18px;
+	padding-left: 18px;
+	padding-right: 18px;
+	background-color: #fff;
+}
+.l{
+	font-size: 30px;
+}
+.ll{
+	margin-bottom: 20px;
+	color: #f38b8b;
+}
+#footer{
+	margin-left: 10px;
+	position: fixed;
+	bottom: 0;
+	color: #fff;
+	font-weight: bold;
+}
+
+canvas{
+	border:5px solid white;
+	border-radius: 5px;
+}
